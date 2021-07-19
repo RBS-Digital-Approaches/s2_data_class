@@ -1,0 +1,3248 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000413410-9</controlfield>
+    <controlfield tag="005" >20170622001558.0</controlfield>
+    <controlfield tag="008" >000905s1699    xxkf          ||| | eng d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >DMBR010104925</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB-B </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB-B </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" " >
+        <subfield code="a" >eng </subfield>
+        <subfield code="h" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="3" >
+        <subfield code="a" >An Account of the first voyages and discoveries made by the spaniards in America </subfield>
+        <subfield code="b" >: containing the most exact relation hithero publish´d of their unparallel´d cruelties on the indians ... ; with the propositions offer´d to the King of Spain ... / </subfield>
+        <subfield code="c" >by don Bartholomew de las Casas ... ; to which is added The Art of Travelling, shewing how a Man may dispose his Travels to the best advantage.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >London : </subfield>
+        <subfield code="b" >printed by J. Darby : </subfield>
+        <subfield code="b" >for D. Brown ..., J. Harris ... and Andr. Bell ..., </subfield>
+        <subfield code="c" >1699.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[8], 248, 40 p., [1] h. de grab. pleg. ; </subfield>
+        <subfield code="c" >8º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A4, B-T8.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >La h. de grab. pleg. son xil.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios Americanos.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >America-</subfield>
+        <subfield code="x" >Descubrimientos y exploraciones.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Darby, John (</subfield>
+        <subfield code="d" >fl. ca. 1695-1733), </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Brown, D., </subfield>
+        <subfield code="e" >ed.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Harris, J., </subfield>
+        <subfield code="e" >ed.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Bell, Andrew, </subfield>
+        <subfield code="e" >ed.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="4" ind2=" " >
+        <subfield code="a" >The Art of Travelling.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Gran Bretaña - </subfield>
+        <subfield code="d" >Londres</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000038-8</controlfield>
+    <controlfield tag="005" >20161018181441.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100016910 </subfield>
+        <subfield code="z" >CCPB000004516-0 </subfield>
+        <subfield code="z" >0100055502</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Aqui se c¯otien¯e treynta proposiciones muy juridicas : en las quales sumaria y succintamente se toc¯a muchas cosas perteneci¯etes al derecho ¯q la yglesia y los principes christianos tienen o pued¯e tener sobre los infieles de qual quier especie que sean... / </subfield>
+        <subfield code="c" >colijo [sic] las dichas treynta p[ro]posicionesel obispo do[n] Fray Bartholome de las Casas o Casaus...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Impresso en seuilla : </subfield>
+        <subfield code="b" >en casa de sebasti¯a trugillo, </subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[10] h. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 885</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universitat de Valencia, RODERIC.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Salamanca, Gredos.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Lugar de impresión e impresor tomados de colofón.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A10.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada orlada a dos tintas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los Indios-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Aqui se contienen treynta proposiciones muy juridicas : en las quales sumaria y succintamente se tocan muchas cosas pertenecientes al derecho que la yglesia y los principes christianos tienen o pueden tener sobre los infieles de qual quier especie que sean.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000039-6</controlfield>
+    <controlfield tag="005" >20161018173054.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100016911 </subfield>
+        <subfield code="z" >CCPB000004514-4 </subfield>
+        <subfield code="z" >0100055500</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCP </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Aqui se c¯otien¯e vnos auisos y reglas para los confessores ¯q oyeren confessiones delos españoles que son o han sido en cargo a los indios de las Indias del mar Oceano / </subfield>
+        <subfield code="c" >colegidas por ... fray Bartholome delas casas o casaus dela orden de Sancto Domingo.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa... en ... Seuilla : </subfield>
+        <subfield code="b" >en casa de Sebastian Trugillo ...,</subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[16] h. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 882 y 883</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universitat de Valencia, RODERIC.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Salamanca, Gredos.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Pie de imp. tomado de colofón: &quot;Fue impressa la presente obra enla muy noble [y] muy leal ciudad de seuilla, en casa de Sebastian Trugillo impressor de libros.Fro[n]tero de nuestra señora de Gracia. Acabosse a .xx. dias del mes de Setiembre, Año de mil [y] quinientos [y] cincuenta y dos&quot;</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: a16.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada orlada a dos tintas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los Indios-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Aqui se contienen unos avisos y reglas para los confessores que oyeren confessiones de los españoles que son o han sido en cargo a los indios de las Indias del mar Oceano.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000037-X</controlfield>
+    <controlfield tag="005" >20210510113408.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100016909 </subfield>
+        <subfield code="z" >CCPB000004515-2 </subfield>
+        <subfield code="z" >0100055501 </subfield>
+        <subfield code="z" >CCPB000000492-8</subfield>
+        <subfield code="z" >0100023204</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Aqui se contiene vna disputa o controuersia entre el Obispo d¯o fray Bartholome de las Casas o Casaus obispo ¯q fue dela ciudad Real de Chiapa que es en las Indias parte dela nueua España y el doctor Gines de Sepulueda Coronista del Emperador nuestro señor </subfield>
+        <subfield code="b" >: sobre ¯q el doctor contendia ¯q las conquistas delas Indias contra los Indios eran licitas, y el obispo por el c¯otrario ¯dfendio y affirmo auer sido y ser ipossible [sic] no serlo, tiranicas, injustas [et] iniquas. La qual questi¯o se v¯etilo [et] disputo en presencia ¯d muchos letrados theologos [et] juristas en vna c¯ogregacion ¯q mando su magestad juntar el año de mil [et] ¯qni¯etos y cincu¯eta en la villa de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="2" ind2=" " >
+        <subfield code="a" >Aquí se contiene una disputa o controversia entre el Obispo don fray Bartolome de las Casas o Casaus obispo que fue de la ciudad Real de Chiapa que es en las Indias, parte de la Nueva España y el doctor Ginés de Sepúlveda Cronista del Emperador nuestro señor </subfield>
+        <subfield code="b" >: sobre que el doctor contendía que las conquistas de las Indias contra los Indios eran licitas, y el obispo por el contrario defendió y afirmó haber sido y ser imposible no serlo, tiránicas, injustas e inicuas. La cual cuestión se ve]tiló y disputó en presencia de muchos letrados teólogos y juristas en una congregación que mandó su magestad juntar el año de mil y quinientos y cincuenta en la villa de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa ... en ... Seuilla : </subfield>
+        <subfield code="b" >en casa de Sebastian Trugillo impressor de libros. Fr¯otero de nuestra señora de Gracia., </subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[61] h., [1] en bl. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 884</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universitat de Valencia, RODERIC.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Salamanca, Gredos.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Lau Haizeetara : Bizkaiko Foru Liburutegia / Biblioteca Foral de Bizkaia.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Considerada como edición A original.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Existe otra edición B considerada falsa con el mismo pie de imprenta.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Esta edición A varía en composición, grabado de la portada, el grabado de inicial en a1 es un personaje con un libro bajo el brazo y en a3v. la inicial M es una columna con motivo vegetal.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Pie de imprenta consta en el colofón: &quot;Fue impressa la presente obra enla muy noble [et] muy leal ciudad de Seuilla: en casa de Sebastian Trugillo impressor de libros. Fro[n]tero de nuestra señora de Gracia. Acabosse a .x. dias del mes de Setiembre. Año de mil [et] quinientos [et]cincuenta y dos&quot;</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: a-g8, h5.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada a dos tintas enmarcada con 4 tacos xilográficos cuya pieza superior contiene escudo imperial con águila bicéfala y el inferior rectangular con motivos de seres fabulosos y vegetales.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >El grabado de la inicial en a1 es un personaje con un libro bajo el brazo y en a3v. la inicial M es una columna con motivo vegetal.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los Indios-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Contoversias-Indias-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Sepúlveda, Juan Ginés de (</subfield>
+        <subfield code="d" >1490-1573)</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000492-8</controlfield>
+    <controlfield tag="005" >20210510113318.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100023204</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Aquí se contiene vna disputa, o controversia entre el Obispo don fray Bartholome de las Casas, o Casaus, Obispo que fue de la Ciudad Real de Chiapa que es en las Indias, parte de la nueua España, y el doctor Gines de Sepulueda Coronista del Emperador nuestro Señor </subfield>
+        <subfield code="b" >: sobre ¯q el doctor c¯otendia, que las conquistas de las Indias contra los Indios eran licitas, y el Obispo por el contrario defendio y affirmo auer sido y ser impossible no serlo tyranicas injustas [et] iniquas. La qual question se ventilo [et] disputo en pres¯ecia de muchos letrados theologos [et] juristas, en vna congregación que m¯ado sumagestad [sic] juntar el año de mil y quini¯etos y cincu¯eta en la villa de Vallad.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="2" ind2=" " >
+        <subfield code="a" >Aquí se contiene una disputa o controversia entre el Obispo don fray Bartolomé de las Casas o Casaus, Obispo que fue de la Ciudad Real de Chiapa que es en las Indias, parte de la Nueva España, y el doctor Ginés de Sepúlveda cronista del Emperador nuestro señor : sobre que el doctor contendía que las conquistas de las Indias contra los indios eran lícitas, y el Obispo por el contrario defendió y afirmó haber sido y ser imposible no serlo tiránicas, injustas e inicuas. La cual cuestión se ventiló y disputó en presencia de muchos letrados teólogos y juristas en una congregación que mandó su magestad juntar el año de mil y quinientos y cincuenta en la villa de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa ... en ... Seuilla : </subfield>
+        <subfield code="b" >en casa de Sebasti¯a Trugillo impressor de libros, fr¯otero de nuestra señora de gracia..., </subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[61], [1] h. en bl. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 884</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Considerada como edición B falsa.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Existe otra edición A considerada original con el mismo pie de imprenta.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Esta edición B varía en composición, grabado de la portada, el grabado de inicial en a1 es un motivo vegetal y en a3v. la inicial M es tipográfica sin decoración.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Pie de imprenta consta en el colofón: &quot;Fue impressa la pres¯ete obra enla muy noble [et] muy leal ciudad de Seuilla: en casa de Sebasti¯a Trugillo impressor de libros, fr¯otero de nuestra señora de gracia. Acabosse a .x. dias del mes de Setiembre. Año de mil [et] quini¯etos [et] cincu¯eta y dos Años.&quot;</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: a-g8, h5.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada a dos tintas enmarcada con 4 tacos xilográficos cuya pieza superior es un arco de medio punto y el inferior contiene 4 ángeles que sustentan un escudo en blanco.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >El grabado de inicial en a1 es un motivo vegetal y en a3v. la inicial M es tipográfica sin decoración.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los indios-</subfield>
+        <subfield code="y" >s. XVI.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Controversias-</subfield>
+        <subfield code="x" >Indios-</subfield>
+        <subfield code="y" >s. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Sepúlveda, Juan Ginés de (</subfield>
+        <subfield code="d" >1490-1573)</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000040-X</controlfield>
+    <controlfield tag="005" >20161018175629.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100016912 </subfield>
+        <subfield code="z" >CCPB000004517-9 </subfield>
+        <subfield code="z" >0100055503</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Breuissima relacion de la destruycion de las indias / </subfield>
+        <subfield code="c" >colegida por el Obispo d¯o fray Bartolome de las Casas o Casaus de la Orden de S¯acto Domingo.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa... en... Seuilla : </subfield>
+        <subfield code="b" >en casa de Sebastian Trugillo ...,</subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[54] h. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="2" ind2=" " >
+        <subfield code="a" >En h. [51] r. comienza : &quot;Lo que se sigue es vn pedaço de vna carta y relacion que escriuio cierto hombre ... refiri¯edo las obras que hazia [y] consentia hazer el capit¯a por la tierra que ¯adaua ...&quot;</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 886</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universitat de Valencia, RODERIC.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Salamanca, Gredos.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Pie de imprenta tomado de colofón, en h. [50] r.: &quot;Fue impressa la presente obra en la muy noble [y] muy leal ciudad de Seuilla en casa de Sebastian Trugillo impressor de libros ... Año de M.D.Lij.&quot;</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: a-e8, f10, g4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada orlada a dos tintas con escudo xilográfico imperial.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los Indios-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000795001-2</controlfield>
+    <controlfield tag="005" >20161017143302.0</controlfield>
+    <controlfield tag="008" >060125s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB-B </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB-B </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Brevissima relacion de la destruycion de las Indias / </subfield>
+        <subfield code="c" >colegida por el Obispo don Fray Bartolome de las Casas, ò Casaus, de la Orden de Santo Domingo.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa... en... Seuilla : </subfield>
+        <subfield code="b" >en casa de Sebastian Trugillo...,</subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >214 h. ; </subfield>
+        <subfield code="c" >8º.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" " >
+        <subfield code="a" >Según Francisco Escudero (Tipografía Hispalense: anales bibliográficos de la ciudad de Sevilla desde el establecimiento de la imprenta hasta fines del siglo XVIII) se trata de una edición apócrifa, hecha con mucha posterioridad a 1552 que por sus caracteres y condiciones tipográficas debió ser impresa en Barcelona y no en Sevilla como figura en sus colofones.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="2" ind2=" " >
+        <subfield code="a" >Contiene: Aquí se contienen treynta proposiciones muy jurídicas, en las quales sumaria y sucintamente se tocan muchas cosas pertenecie[n]tes al derecho que la Iglesia y los Principes Christianos tienen ò pueden tener sobre los infieles ... entre h. 51-60 y colofón en v. de h. 60: Impresso en Seuilla, en casa de Sebastián Trugillo, 1552. Aqui se contiene vna disputa o controuersia entre ... fray Bartolome de las Casas ò Casaus ... y el doctor Gines de Sepulueda ... entre h. 61-121 y colofón en h. 121 v:  Impressa ... en ... Seuilla, en casa de Sebastián Trugillo..., 1552. Este es vn tratado que ... fray Bartholome de las Casas ò Casaus compuso por comission del Consejo Real de las Indias sobre la materia de los indios que se han hecho en ellas esclauos ... entre h. 122-157 y colofón en h. 157 r.:  fue impressa... en Seuilla, en casa de Sebastian Truxillo, 1552. Entre los remedios que don fray Bartholome de las Casas ... refirio ... en los ayuntamientos que mandò hazer su magestad de prelados y letrados y personas grandes en Valladolid el año de mil è quinientos y quarenta y dos para reformacion de las Indias ... en h. 158-214</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital. : </subfield>
+        <subfield code="c" >Biblioteca Digital del Senado.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Se ha respetado la puntuación original.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Cada obra con colofón propio.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-Z8, 2A-2C8, 3D6.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada con orla tipográfica y viñeta xilográfica.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Cada obra con portadilla con orla tipográfica propia.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Pueblos indígenas-</subfield>
+        <subfield code="z" >América.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >America española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Aquí se contienen treynta proposiciones muy jurídicas, en las quales sumaria y sucintamente se tocan muchas cosas pertenecientes al derecho que la Iglesia y los Principes Christianos tienen ò pueden tener sobre los infieles.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Aqui se contiene una disputa o controversia entre ... fray Bartolome de las Casas ò Casaus ... y el doctor Gines de Sepulveda ...</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Este es un tratado que ... fray Bartolome de las Casas ò Casaus compuso por comission del Consejo Real de las Indias sobre la materia de los indios que se han hecho en ellas esclavos.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Entre los remedios que don fray Bartolome de las Casas ... refirio ... en los ayuntamientos que mandò hazer su magestad de prelados y letrados y personas grandes en Valladolid el año de mil è quinientos y quarenta y dos para reformacion de las Indias.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB001006377-3</controlfield>
+    <controlfield tag="005" >20200617171108.0</controlfield>
+    <controlfield tag="008" >081228s1646    sp     |||||||||||||spa d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >AS </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >AS </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Brevissima relacion de la destruycion de las Indias / </subfield>
+        <subfield code="c" >colegiada por Fray Bartolome de las Casas.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Barcelona : </subfield>
+        <subfield code="b" >En Casa de Antonio Lacanalleria, </subfield>
+        <subfield code="c" >1646.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >214 p. ; </subfield>
+        <subfield code="c" >8º (21 cm)</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Port. orlada.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios Americanos.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2=" " >
+        <subfield code="a" >América española.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Lacanalleria, Antonio, </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Barcelona</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038826-2</controlfield>
+    <controlfield tag="005" >20121009014149.0</controlfield>
+    <controlfield tag="008" >931025s1644    it            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030380</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" " >
+        <subfield code="a" >ita</subfield>
+        <subfield code="a" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="240" ind1="0" ind2="0" >
+        <subfield code="a" >Obras 2</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Conquista dell&#39; Indie occidentali / </subfield>
+        <subfield code="c" >di ... Fra Bartolomeo dalle Case ò Casaus ... Vescouo di Chiapa ; tradotta in italiano per opera di Marco Ginammi.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >presso Marco Ginammi, </subfield>
+        <subfield code="c" >1644.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >184 p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo en italiano y español.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Existe emisión con pie de imp.: In Venetia: presso Marco Gianammi, 1645.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca de imp. en port.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A4, b-c8, D-M8.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos col.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >América Hispana-</subfield>
+        <subfield code="x" >Descubrimientos geográficos: Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >trad.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038827-0</controlfield>
+    <controlfield tag="005" >20201027084555.0</controlfield>
+    <controlfield tag="008" >931025s1645    it            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030381 </subfield>
+        <subfield code="z" >CCPB000055879-6 </subfield>
+        <subfield code="z" >0100155404</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" " >
+        <subfield code="a" >ita </subfield>
+        <subfield code="a" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Conquista dell&#39; Indie Occidentali / </subfield>
+        <subfield code="c" >di... Fra Bartolomeo dalle Case, o Casaus... Vescouo di Chiapa ; tradotta in italiano per opera di Marco Ginammi ; All&#39; Illmo... Sig.or Pietro Sagredo...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >presso Marco Ginammi, </subfield>
+        <subfield code="c" >1645.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >184 p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Lau Haizeetara : Bizkaiko Foru Liburutegia / Biblioteca Foral de Bizkaia.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo en italiano y español.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Existe emisión con pie de imprenta: In Venetia: presso Marco Ginammi, 1644.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca de impresor en portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A4, b-c8, D-M8.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos columnas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales y friso xilográfico.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >América Hispana-</subfield>
+        <subfield code="x" >Descubrimientos geograficos ó Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >traductor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="001" >CCPB001323657-1</controlfield>
+    <controlfield tag="005" >20200617171634.0</controlfield>
+    <controlfield tag="008" >140923s1625    gw     |||   ||0| 0 lat d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >(M-BN)a5541804</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >M-BN </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >M-BN </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0" >
+        <subfield code="a" >D. Bartholomaei De Las Casas, episcopi Chiapensis ... Erudita &amp; elegans explicatio quaestionis : </subfield>
+        <subfield code="b" >utrum reges vel principes, jure aliquo vel titulo, &amp; salua conscientia, ciues ac subditos a regia corona alienare, &amp; alterius domini particularis ditioni subjicere possint? ... /</subfield>
+        <subfield code="c" >Edita quondam cura &amp; studio Wolfgangi Griestetteri. Nunc vero multo correctius recusa, curante Jacobo Kyllingero jc. ... Accessit tractatus Guilielmi de Monserrat, De successione regum.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" " >
+        <subfield code="a" >Erudita &amp; elegans explicatio quaestionis: utrùm reges vel principes jure aliquo vel titulo, &amp; salvâ conscientiâ, cives ac subditos à regiâ coronâ alienare &amp; alterius domini particularis ditioni subjicere possint?</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Tubingae : </subfield>
+        <subfield code="b" >ex officina typographica Eberhardi Wildii, </subfield>
+        <subfield code="c" >1625.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >47 p., [1] en bl. ; 75 p., [1] en bl. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="8" ind2=" " >
+        <subfield code="a" >Contiene: Guilielmi de Monserrat Catalani j.u. interpretis acutissimi Tractatus de successione regum et praecipue Galliae / editus curante Christophoro Besoldo</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-F4 ; A-I4, K2.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Segunda parte de la obra con portada, paginación y signatura propias.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Herencias y sucesiones.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Wild, Eberhard, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Griesstetter, Wolfgang, </subfield>
+        <subfield code="e" >editor literario.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Kyllinger, Jakob Werner, </subfield>
+        <subfield code="e" >corrector.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2="2" >
+        <subfield code="a" >Guilielmi de Monserrat Catalani j.u. interpretis acutissimi Tractatus de successione regum et praecipue Galliae.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Alemania - </subfield>
+        <subfield code="d" >Tubinga.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000851050-4</controlfield>
+    <controlfield tag="005" >20130506003057.0</controlfield>
+    <controlfield tag="008" >010618s1571    gw a          ||| | lat d</controlfield>
+    <datafield tag="026" ind1=" " ind2=" " >
+        <subfield code="e" >s,e- cal- o-,&amp; tira(3) 1571 R</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >(CAT)0092-28160</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CAT </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CAT </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="080" ind1=" " ind2=" " >
+        <subfield code="a" >341</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >D. Bartholomaei de las Casas ... Erudita &amp; elegans explicatio quaestionis vtrum reges vel principes iure aliquo vel titulo &amp; salua conscientia, ciues ac subditos à regia corona alienare &amp; alterius domini particularis ditioni subijcere posint? </subfield>
+        <subfield code="b" >: antehac nunquam ab vllo doctorum ita lucutenter tractata / </subfield>
+        <subfield code="c" >edita cura studio Vuolffgangi Griestetteri.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Francofvrti ad Moenvm : </subfield>
+        <subfield code="b" >apvd Geordivm Coruinum, impensis Hieronymi Feyerabend, </subfield>
+        <subfield code="c" >1571.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[8], 67, [1] p. ; </subfield>
+        <subfield code="c" >4º (20 cm)</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >BLC 55-249, NC 0180155</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Mención de imp. al final de la obra.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca del imp. en port.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Vº de la última h. en blanco.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-I4, K2.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >29 lín. y reclamos.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Cap. y otra orn.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Derecho Internacional.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Griestetter, Wolfgang, </subfield>
+        <subfield code="e" >ed. lit.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Rab, Georg (</subfield>
+        <subfield code="d" >m. 1580), </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Feyerabend, Hieronymus, </subfield>
+        <subfield code="e" >ed.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Erudita &amp; elegans explicatio quaestionis vtrum reges vel principes.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Alemania - </subfield>
+        <subfield code="d" >Frankfurt</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001" >CCPB001315842-2</controlfield>
+    <controlfield tag="005" >20200617171626.0</controlfield>
+    <controlfield tag="008" >950111s1621    ne           |||| ||dut d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >(M-BN)bima0000012869</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >M-BN </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >M-BN </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Den Vermeerderden Spieghel der Spaensche tierannije geschiet in Westindien waerin te sien is de onmenschelijcke wreede feijten der Spanjarden met samen, de beschrijvinge der Selver lant en volcken aert en nature, allen vaderlant lieuende en vrome voorstaders ten exempel voor gesteltoorder / </subfield>
+        <subfield code="c" >in spans beschieven door den E. bischop don fray Bartholome de las Casas van S. Dominicus oorder [sic].</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Gedruckt tot Amsterdam : </subfield>
+        <subfield code="b" >by Cornelis Lodewijcksz vander Plase ...,</subfield>
+        <subfield code="c" >1621.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[51] h. : </subfield>
+        <subfield code="b" >il. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A8, A-M4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto con apostillas marginales e inicial grabada.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Contiene 17 grabados calcográficos intercalados en el texto con escenas alusivas a éste.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Portada frontispicia con grabado calcográfico alegórico.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América Española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1492-1600 (Descubrimiento y Conquista)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Lodewijcksz, Cornelio.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Holanda - </subfield>
+        <subfield code="d" >Amsterdam.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000042-6</controlfield>
+    <controlfield tag="005" >20161017182010.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100016914 </subfield>
+        <subfield code="z" >CCPB000004519-5 </subfield>
+        <subfield code="z" >0100055505 </subfield>
+        <subfield code="z" >CCPB000004518-7</subfield>
+        <subfield code="z" >0100055504</subfield>
+        <subfield code="z" >CCPB001100651-X</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Entre los remedios ¯q d¯o fray Bartolome delas casas obispo d[e] la ciudad real de Chiapa refirio ... en los ayuntami¯etos ¯q m¯ado hazer su magestad de perlados [sic] y letrados y personas gr¯ades en Valladolid el año de mill [e] quini¯etos y quar¯eta y dos para reformaci¯o delas Yndias, el octauo en ord¯e es ... d¯ode se asign¯a veynte razones por las q[ua]les prueua no deuerse dar los indios a los españoles en encomi¯eda, ni en feudo, ni en vasallaje ni d[e] otra manera algu[n]a...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa... en ... Seuilla : </subfield>
+        <subfield code="b" >en las casas de Iacome Cr¯oberger,</subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[53] h., [1] h. en bl. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 887 (error) y 888</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universitat de Valencia, RODERIC.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Salamanca, Gredos.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Pie de imprenta tomado de colofón: &quot;Fue impressa la presente obra en la muy noble y opulentissima y muy leal ciudad de Seuilla/ en las casas de lacome Cr¯oberger. Acabose a diez [y] siete dias del mes de Agosto/ año de mill [y] quinientos [y] cinquenta y dos años&quot;</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: a-f8, g6.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada orlada a dos tintas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los Indios-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >America española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Cromberger, Jácome, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Entre los remedios que don fray Bartolome de las Casas, Obispo de la ciudad real de Chiapas refirio... en los ayuntamientos que mando hazer su magestad de prelados y letrados y personas grandes de Valladolid el año de mil quinientos y cuarenta y dos para reformacion de las Indias.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000041-8</controlfield>
+    <controlfield tag="005" >20161018170637.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100016913 </subfield>
+        <subfield code="z" >CCPB000004520-9 </subfield>
+        <subfield code="z" >0100055506 </subfield>
+        <subfield code="z" >CCPB000004521-7</subfield>
+        <subfield code="z" >0100055507</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Este es vn tratado ¯q el obispo dela ciudad Real de Chiapas do[n] fray Bartholome de las Casas o Casaus compuso por comission del Consejo Real de las Indias sobre la materia de los yndios que se han hecho en ellas esclauos...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa... en .. Seuilla : </subfield>
+        <subfield code="b" >en casa de Sebastian Trugillo...,</subfield>
+        <subfield code="c" >1552.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[36] h. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 889 y 890 (error en el título)</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universitat de Valencia, RODERIC.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Salamanca, Gredos.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Lugar e imp. tomados de colofón: &quot;Fue impressa la presente obra en la muy noble [y] muy leal ciudad de Seuilla/ en casa de Sebastian Trugillo... Acabosse a doze dias del mes de Setiembre. Año de mil [y] quinientos y cincu¯eta y dos&quot;</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: a-c8, d12.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada orlada a dos tintas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los Indios-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Tratado sobre los indios esclavos.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam a22000005i 4500</leader>
+    <controlfield tag="001" >CCPB001307659-0</controlfield>
+    <controlfield tag="005" >20200617171618.0</controlfield>
+    <controlfield tag="008" >991018s1642    fr           |||| ||fre d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >(M-BN)bima0000014790</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >M-BN </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >M-BN </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" " >
+        <subfield code="a" >fre </subfield>
+        <subfield code="h" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Histoire des Indes Occidentales, ou l`on reconnoit la bontè de ces pais, [et] de leurs peuples; [et] les cruautez tyranniques des espagnols /</subfield>
+        <subfield code="c" >déscrite premierement en langue castillane par Dom Barthelemy de las Casas, de l&#39;ordre de S. Dominiqie, [et] Euesque de Chappa ; [et] depuis fidellement traduite en françois.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >A Lyon : </subfield>
+        <subfield code="b" >chez Iean Caffin [et] F. Plaignard ..., </subfield>
+        <subfield code="c" >1642.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[8], 299 p., [1] en bl. ; </subfield>
+        <subfield code="c" >8º.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tipográfica en portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: ã4, A-S8, T6.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Inicial grabada.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1492-1600 (Descubrimiento y conquista)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Caffin, Jean, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Plaignard, François, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="1" ind2=" " >
+        <subfield code="a" >L`on reconnoit la bontè de ces pais, [et] de leurs peuples; [et] les cruautez tyranniques des espagnols.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Francia - </subfield>
+        <subfield code="d" >Lyon.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000055881-8</controlfield>
+    <controlfield tag="005" >20121009014149.0</controlfield>
+    <controlfield tag="008" >931025s1653    it            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100155406</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CAM </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" " >
+        <subfield code="a" >ita</subfield>
+        <subfield code="a" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Istoria ó b re]uissima relatione della distruttione dell&#39;Indie Occidentali / </subfield>
+        <subfield code="c" >di... Don Bartolomeo dalle Case o Casaus... ; tradotta in italiano dall&#39;... Sig. Giacomo Castellani gia sotto rome di Francesco Bersabita.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Venetia : </subfield>
+        <subfield code="b" >presso Marco Ginammi, </subfield>
+        <subfield code="c" >1643.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >3] h., 150 p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo italiano-español.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign. :  parágrafo]3, A-I8, K3.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos col.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Port. con grab. xil.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indias Occidentales-</subfield>
+        <subfield code="x" >Historia.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Castellani, Giacomo, </subfield>
+        <subfield code="e" >trad.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginami, Marco, </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038829-7</controlfield>
+    <controlfield tag="005" >20170628001539.0</controlfield>
+    <controlfield tag="008" >931025s1626    it            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030383</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" " >
+        <subfield code="a" >ita </subfield>
+        <subfield code="a" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="240" ind1="0" ind2="0" >
+        <subfield code="a" >Obras 4</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Istoria ò breuissima relatione della distruttione dell&#39; Indie Occidentali / </subfield>
+        <subfield code="c" >di ... Bartolomeo dalle Case, ò Casaus ... Vescouo di Chiapa ... ; conforme al suo vero originale spagnuolo già stampato in Siuiglia con la traduttione in italiano di Francesco Bersabita ...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >presso Marco Ginammi, </subfield>
+        <subfield code="c" >1626.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[16], 154, [2] p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo en italiano y español.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Francesco Bersabita es seudónimo de Giacomo Castellani.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tipográfica en portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: [cristus]8, A-S4, T6.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos columnas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales grabadas.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >América Hispana-</subfield>
+        <subfield code="x" >Descubrimientos geograficos ó Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios, tratamiento de-</subfield>
+        <subfield code="z" >América Hispana.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios-</subfield>
+        <subfield code="x" >Misiones.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2=" " >
+        <subfield code="a" >América española.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Castellani, Giacomo, </subfield>
+        <subfield code="e" >traductor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Breuissima relatione della distruttione dell&#39; Indie Occidentali.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038828-9</controlfield>
+    <controlfield tag="005" >20180112121312.0</controlfield>
+    <controlfield tag="008" >931025s1630    it            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030382 </subfield>
+        <subfield code="z" >(M-BN)bima0000004797</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" " >
+        <subfield code="a" >ita </subfield>
+        <subfield code="a" >spa </subfield>
+        <subfield code="h" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="240" ind1="1" ind2="0" >
+        <subfield code="a" >Brevísima relación de la destrucción de las Indias.</subfield>
+        <subfield code="l" >Italiano-Español</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Istoria ó breuissima relatione della distruttione dell&#39; Indie Occidentali / </subfield>
+        <subfield code="c" >di ... Don Bartolomeo dalle Case, ó Casaus ... dell&#39; Ordine de&#39; Predicatori [et] Vescouo di Chiapa ... ; conforme al suo vero originale spagnuolo, già stampato in Siuiglia ; tradotta in italiano dall&#39; ... sig. Giacomo Castellani già sotto nome di Francesco Bersabita ; Dedicata all&#39; amicitia.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" " >
+        <subfield code="a" >Istoria ó brevissima relatione della distruttione dell&#39; Indie Occidentali</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >presso Marco Ginammi, </subfield>
+        <subfield code="c" >1630.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[16], 150, [2] p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Google Books. </subfield>
+        <subfield code="n" >Ejemplar de la Universidad Complutense.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo italiano-español.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tipográfica de impresor en portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: [cruz]8, A-I8, K4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos columnas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales capitales, cabeceras y remates de texto grabados.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América Española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1492-1600 (Descubrimiento y Conquista)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Castellani, Giacomo, </subfield>
+        <subfield code="e" >traductor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038830-0</controlfield>
+    <controlfield tag="005" >20201027091916.0</controlfield>
+    <controlfield tag="008" >931025s1643    it            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030384 </subfield>
+        <subfield code="z" >CCPB000049965-X </subfield>
+        <subfield code="z" >0100133516</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >M-BN </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >M-BN </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="0" ind2=" " >
+        <subfield code="a" >ita </subfield>
+        <subfield code="a" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Istoria o Breuissima relatione della distruttione dell&#39; Indie Occidentali / </subfield>
+        <subfield code="c" >di ... Don Bartolomeo dalle Case, ò Casaus ... dell&#39; Ordine de&#39; Predicatori [et] Vescouo di Chiapa ; conforme al suo vero originale spagnolo già stampato in Siuiglia tradotta in italiano dall&#39; ... sig. Giacomo Castellani già sotto nome di Francesco Bersabita ...; Al ... Sig. Nicolo Persico.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >presso Marco Ginammi, </subfield>
+        <subfield code="c" >1643.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[8], 150, [2] p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Lau Haizeetara : Bizkaiko Foru Liburutegia / Biblioteca Foral de Bizkaia.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo en italiano y español.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tipográfica en portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: ¶4, A-I8, K4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos columnas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales, frisos y remates xilográficos.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Misiones-</subfield>
+        <subfield code="z" >América del Sur-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América española-</subfield>
+        <subfield code="v" >Historia-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Castellani, Giacomo, </subfield>
+        <subfield code="e" >traductor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038831-9</controlfield>
+    <controlfield tag="005" >20181017135033.0</controlfield>
+    <controlfield tag="008" >931025s1640    it            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030385 </subfield>
+        <subfield code="z" >(M-BN)bima0000004800</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" " >
+        <subfield code="a" >ita </subfield>
+        <subfield code="a" >spa </subfield>
+        <subfield code="h" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="240" ind1="1" ind2="0" >
+        <subfield code="a" >Octavo remedio. </subfield>
+        <subfield code="l" >Italiano-Español</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="3" >
+        <subfield code="a" >La libertá pretesa dal supplice schiauo indiano / </subfield>
+        <subfield code="c" >di ... D. Bartolomeo dalle Case, ò Casaus, ... dell&#39; Ordine de&#39; Predicatori, &amp; Vescovo di Chiapa ... ; conforme al suo vero originale spagnuolo già stampato in Siviglia tradotto in italiano per opera di Marco Ginammi ; all&#39; ... Odoardo Farnese, Duca di Parma ...</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" " >
+        <subfield code="a" >Libertá pretesa dal supplice schiavo indiano</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >presso Marco Ginammi, </subfield>
+        <subfield code="c" >1640.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >155, [3] p., [2] en bl. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo italiano-español.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Colofón.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tipográfica de impresor en portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A4, B-K8, L4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos columnas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales capitales, cabeceras y remates de texto grabados.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América Española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1492-1600 (Descubrimiento y Conquista)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >traductor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Farnesio, Eduardo, </subfield>
+        <subfield code="b" >V </subfield>
+        <subfield code="c" >Duque de Parma (</subfield>
+        <subfield code="d" >1612-1646),</subfield>
+        <subfield code="e" >dedicatario.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000499889-8</controlfield>
+    <controlfield tag="005" >20180105001611.0</controlfield>
+    <controlfield tag="008" >010705s1598    gw ad         ||| | lat d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >DMBR020101520</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB-B </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB-B </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Narratio regionum indicarum per hispanos quosdam deuastatarum verissima</subfield>
+        <subfield code="b" >: priùs quidem / </subfield>
+        <subfield code="c" >per Episcopum Bartolemaeum Casaum, natione Hispanum Hispanicè conscripta &amp; anno 1551.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Francofurti : </subfield>
+        <subfield code="b" >sumptibus Theodori de Bry, &amp; Ioannis Saurii typis,</subfield>
+        <subfield code="c" >1598.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[8], 141 p. : </subfield>
+        <subfield code="b" >il. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: )(4, A-R4, S3.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Port. grab. calc.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Ilustraciones calc. intercaladas en el texto.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2=" " >
+        <subfield code="a" >España-</subfield>
+        <subfield code="x" >Historia.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Bry, Theodor (</subfield>
+        <subfield code="d" >1528-1598), </subfield>
+        <subfield code="e" >ed.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Saur, Johannes, </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Alemania - </subfield>
+        <subfield code="d" >Frankfurt</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB001189389-3</controlfield>
+    <controlfield tag="005" >20200617171416.0</controlfield>
+    <controlfield tag="008" >110518s1614    gw a   |||||||||||||lat d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="z" >(M-BN)a4463041</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB-AB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB-AB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="0" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Narratio regionum indicarum per hispanos quosdam deuastatarum verissima / </subfield>
+        <subfield code="c" >per Episcopum Bartolomaeum Casaum, natione Hispanum Hispanicè conscripta &amp; Hispali Hispanicè, pòstalibi latinè excusa.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" " >
+        <subfield code="a" >Jam verò dennuò iconibus illustrata edita est.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Oppenheimii : </subfield>
+        <subfield code="b" >sumptibus Johan Theodo. de Bry : </subfield>
+        <subfield code="b" >Typis Hieronymi Galleri, </subfield>
+        <subfield code="c" >1614.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >138, [i.e. 130] p., [2] en bl. : </subfield>
+        <subfield code="b" >il. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-Q4, R2.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Error de páginación, de página 11 pasa a página 20.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada con grabado calcográfico.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Las ilustraciones grabados calcográficos: &quot;Iodo a Wigne in.&quot;, alusivas al trato recibido por los indios durante la colonización de América.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios-</subfield>
+        <subfield code="z" >América.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América española-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Bry, Johann Theodor de (</subfield>
+        <subfield code="d" >1561-1623), </subfield>
+        <subfield code="e" >editor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Gallern, Jerónimo, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Winghe, Jodocus (</subfield>
+        <subfield code="d" >ca. 1542-1603), </subfield>
+        <subfield code="e" >grabador.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Alemania - </subfield>
+        <subfield code="d" >Frankfurt.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038834-3</controlfield>
+    <controlfield tag="005" >20161006114633.0</controlfield>
+    <controlfield tag="008" >931025s1646    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030388 </subfield>
+        <subfield code="z" >CCPB000353304-2 </subfield>
+        <subfield code="z" >DMBR000206402</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="4" >
+        <subfield code="a" >Las obras del obispo D. Fray Bartolome de las Casas, o Casaus, obispo que fue de la ciudad Real de Chiapa en las Indias, de la Orden de Santo Domingo ...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >[Barcelona] Impresso en Seuilla, en casa Sebastian de Trugillo, año 1552 y agora nueuamente en Barcelona : </subfield>
+        <subfield code="b" >en casa de Antonio Lacaualleria,</subfield>
+        <subfield code="c" >1646.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[2], 214 h. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="2" ind2=" " >
+        <subfield code="a" >Contiene: Breuissima relacion de la destruycion de las Indias Occidentales por los Castellanos, h. 1-50 ; Treynta proposiciones pertenecientes al derecho que la Iglesia y los Principes Christianos tienen contra los Infieles ..., h. 51-60 ; Una disputa entre dicho Obispo y el Doctor Gines de Sepulueda, sobre que el Doctor contenia que las conquistas contra los indios eran licitas, y el Obispo ... injustas è iniquas, h. 61-121 ; Un tratado que escriuio por mandado del Consejo Real de las Indias ..., h. 122-157 ; Remedios que refirió por mandado del Emperador al ayuntamiento de Prelados que mando juntar en Valladolid el año 1542 ..., h. 158-214</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: [ ]2, A-Z8, 2A-2C8, 2D6.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Anteportadas con orla tipográfica y escudo xilográfico en la primera.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Lacavallería, Antonio, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Brevísima relación de la destrucción de las Indias Occidentales por los Castellanos.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Treinta proposiciones pertenecientes al derecho que la iglesia y los principes cristianos tienen contra los infieles.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="4" ind2=" " >
+        <subfield code="a" >Una disputa entre dicho obispo y el doctor Ginés de Sepúlveda, sobre que el doctor contenía que las conquistas contra los indios eran lícitas y el obispo ... injustas e iniquas.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="3" ind2=" " >
+        <subfield code="a" >Un tratado que escribió por mandado del Consejo Real de las Indias.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Remedios que refirió por mandado del Emperador al ayuntamiento de Prelados que mandó juntar en Valladolid el año 1542.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Barcelona.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000043-4</controlfield>
+    <controlfield tag="005" >20161018183107.0</controlfield>
+    <controlfield tag="008" >931025s1552    sp            ||| | lat d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100016915 </subfield>
+        <subfield code="z" >CCPB000004523-3 </subfield>
+        <subfield code="z" >0100055509</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Principia qued¯a ex quibus procedendum est in disputatione ad manifestandam et defendendam iusticiam Yndorum / </subfield>
+        <subfield code="c" >per Episcop¯u F. Bartholome¯u a Casaus ordinis predicator¯u collecta.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Impressum Hispali : </subfield>
+        <subfield code="b" >in edib[us] Sebastiani Trugilli, </subfield>
+        <subfield code="c" >[s.a.].</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[10] h. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 892 y 893</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universitat de Valencia, RODERIC.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Valladolid.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Universidad de Salamanca, Gredos.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Lugar de impresión e impresor tomados de colofón.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Escudero, 542, lo fecha en 1552.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A10.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos columnas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Carece de portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Título en hoja [1] r. a dos tintas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Colonización-</subfield>
+        <subfield code="x" >Defensa de los Indios-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Principia quedam ex quibus procedendum est in disputatione ad manifestandam et defendendam iusticiam Yndorum.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000053955-4</controlfield>
+    <controlfield tag="005" >20121009014149.0</controlfield>
+    <controlfield tag="008" >931025s1664    gw a          ||| | lat d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100148035</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PR </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Regionum Indicarum per Hispanos olim devastatarum accuratissima descriptio insertis figuris aeneis ad virum fabrefactis / </subfield>
+        <subfield code="c" >authore Bartholomaeo de las Casas Episcopo Hispano.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" " >
+        <subfield code="a" >Editio nova priori long&#39;e correctior.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Heidelbergae : </subfield>
+        <subfield code="b" >Typis Guilielmi Walteri..., </subfield>
+        <subfield code="c" >1664.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >4], 112 p. : </subfield>
+        <subfield code="b" >il. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign. : ( : O : )2, A-O2.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Port. grab. calc.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Las il. calc., algunas firmadas : &quot;Iodo. a Wigne in.&quot;</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >América Española-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000053956-2</controlfield>
+    <controlfield tag="005" >20161208003118.0</controlfield>
+    <controlfield tag="008" >931025s1698    ne ab         ||| | fre d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100148036</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PR </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Relation des voyages et des découvertes que les Espagnols ont fait dans les Indes Occidentales / </subfield>
+        <subfield code="c" >ecrite par Dom. B. de Las-Casas, evéque de Chiapa ; avec la Relation curiense des voyages du sieur de Montauban... en Guinée l&#39;an 1695.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >A Amsterdam : </subfield>
+        <subfield code="b" >chez J. Louis de Lorme... (</subfield>
+        <subfield code="f" >de l&#39;Imprimerie de Daniel Boulesteys de La Contie)</subfield>
+        <subfield code="c" >1698.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[10], 402 p.  [14] h. de grab. ; </subfield>
+        <subfield code="c" >12º.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" " >
+        <subfield code="a" >Relation du voyage du Sieur de Montanban... en Guinée en l&#39;année 1695 ; p. 359, con port. propia</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Impresor entre paréntesis tomado de colofón.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tip. en port.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign. : *5, A-Q12, R6, S5.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Port. a dos tintas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Al final del libro, catálogo de publicaciones de la ed.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >La h. de grab., en su mayoria pleg., en mapas y escenas cotidianas del Nuevo Mundo. La primera de ellas, precediendo a la port., está firmado : &quot;B. Picart in. et fe&quot;</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >América Española-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Guinea-</subfield>
+        <subfield code="x" >Descripción y viaje-</subfield>
+        <subfield code="y" >1695.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2=" " >
+        <subfield code="a" >Libros ilustrados-</subfield>
+        <subfield code="y" >S. XVII.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Montauban. </subfield>
+        <subfield code="t" >Relation du voyage du Sieur de Montauban en Guinée en l&#39;année 1695.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Lorme, Louis, </subfield>
+        <subfield code="e" >ed.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Boulesteys de la Contie, Daniel, </subfield>
+        <subfield code="e" >imp.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Holanda - </subfield>
+        <subfield code="d" >Amsterdam</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038832-7</controlfield>
+    <controlfield tag="005" >20191016001541.0</controlfield>
+    <controlfield tag="008" >931025s1636    it            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030386 </subfield>
+        <subfield code="z" >CCPB000895681-2</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" " >
+        <subfield code="a" >ita </subfield>
+        <subfield code="h" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="240" ind1="0" ind2="0" >
+        <subfield code="a" >Obras 8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="3" >
+        <subfield code="a" >Il supplice schiauo Indiano / </subfield>
+        <subfield code="c" >di ... D. Bartolomeo dalle Case ò Casaus ... dell&#39; Ordine de&#39; Predicatori, &amp; Vescouo di Chiapa ... ; conforme al suo vero Originale Spagnuolo già stampato in Siuiglia ; tradotto in italiano per opera di Marco Ginammi ...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >appresso Marco Ginammi, </subfield>
+        <subfield code="c" >1636.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >118, [2] p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="8" ind2=" " >
+        <subfield code="a" >Libri stampati da Marco Ginammi, [2] p. finales.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital. </subfield>
+        <subfield code="b" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo en italiano y español.</subfield>
+    </datafield>
+    <datafield tag="595" ind1=" " ind2=" " >
+        <subfield code="a" >Existe una variante en la que las [2] p. finales están en blanco.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tipográfica en portada.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-G8, H4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto a dos columnas.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2=" " >
+        <subfield code="a" >Esclavitud-</subfield>
+        <subfield code="z" >América española-</subfield>
+        <subfield code="y" >S. XVII.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios, tratamiento de-</subfield>
+        <subfield code="z" >América Hispana.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >traductor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000038833-5</controlfield>
+    <controlfield tag="005" >20201027090020.0</controlfield>
+    <controlfield tag="008" >931025s1657    it            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100030387 </subfield>
+        <subfield code="z" >CCPB000055880-X </subfield>
+        <subfield code="z" >0100155405 </subfield>
+        <subfield code="z" >(M-BN)bima0000004802</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PAB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" " >
+        <subfield code="a" >ita </subfield>
+        <subfield code="a" >spa </subfield>
+        <subfield code="h" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="3" >
+        <subfield code="a" >Il supplice schiauo indiano / </subfield>
+        <subfield code="c" >di ... D. Bartolomeo dalle Case ò Casaus ... dell&#39; Ordine de Predicatori, &amp; Vescouo di Chiapa ... ; conforme ab suo vero originale spagnuolo già stampato in Siuiglia ; tradotto in italiano per opera di Marco Ginammi; Al... Sig. Bernardo Moro.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="3" ind2=" " >
+        <subfield code="a" >Supplice schiavo indiano</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Venetia : </subfield>
+        <subfield code="b" >per li Ginammi, </subfield>
+        <subfield code="c" >1657.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >96 p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Lau Haizeetara : Bizkaiko Foru Liburutegia / Biblioteca Foral de Bizkaia.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" " >
+        <subfield code="a" >Texto paralelo italiano-español.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Marca tipográfica de impresor en portada.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Al final del texto colofón de la edición de Sevilla de 1552: &quot;Fue impressa la presente obra en la muy noble, &amp; muy leal Ciudad de Seuilla, en casa de Sebastian Trugillo, impressor de libros, Frontero de Nuestra Señora de Gracia. Acabosse à doze dias del mes de settiembre. Año de mil, &amp; quinientos y cincuentos y dos&quot;</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-F8.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales y frisos xilográficos.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América Española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1492-1600 (Descubrimiento y Conquista)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >traductor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ginammi, Marco, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Italia - </subfield>
+        <subfield code="d" >Venecia.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000000493-6</controlfield>
+    <controlfield tag="005" >20161018185726.0</controlfield>
+    <controlfield tag="008" >931025s1553    sp            ||| | spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100023205 </subfield>
+        <subfield code="z" >CCPB000004522-5 </subfield>
+        <subfield code="z" >0100055508</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Tratado c¯oprobatorio del Imperio soberano y principado vniuersal que los Reyes de Castilla y Leon tienen sobre las indias / </subfield>
+        <subfield code="c" >compuesto por ... Bartholome d[e] las Casas o Casaus de la orden d[e] Sancto Domingo.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Fue impressa ... en ... Seuilla : </subfield>
+        <subfield code="b" >en casa d[e] Sebasti¯a Trugillo,</subfield>
+        <subfield code="c" >1552 (</subfield>
+        <subfield code="g" >1553)</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[80] h. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >CCBE S. XVI, </subfield>
+        <subfield code="c" >C, 891</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Escudero, </subfield>
+        <subfield code="c" >542</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Lugar de impresión e impresor constan en colofón, año en colofón 1553.</subfield>
+    </datafield>
+    <datafield tag="596" ind1=" " ind2=" " >
+        <subfield code="a" >Colofón: Fue impressa la presente obra en la muy noble [y] muy leal ciudad d[e] Seuilla en cas d[e] Sebastia[n] Trugillo impressor de libros. Acabosse a ocho dias d[e]l mes de enero. Año 1553.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: a-k8.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Portada orlada a dos tintas con escudo imperial.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Letra gótica.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios-</subfield>
+        <subfield code="x" >Colonias-</subfield>
+        <subfield code="z" >América-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Trujillo, Sebastián, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Tratado comprobatorio del Imperio soberano y principado universal que los Reyes de Castilla y Leon tienen sobre las indias.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >España - </subfield>
+        <subfield code="d" >Sevilla.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000053957-0</controlfield>
+    <controlfield tag="005" >20121009014149.0</controlfield>
+    <controlfield tag="008" >931025s1630    fr            ||| | fre d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100148037</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >PR </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="041" ind1="1" ind2=" " >
+        <subfield code="a" >fre</subfield>
+        <subfield code="a" >spa</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Tyrannies et cruauter des espagnols commises es  sic] Indes Occidentales quon dit le Nouveau Monde / </subfield>
+        <subfield code="c" >briefuement descrite en espagnol par Don frefe Barthelemy de las Casas de l&#39;Ordre de S. Dominique &amp; Eusque de la ville royalle de Chiappa ; traduitte fidellement en françois par Iacques de Migyrode sur la Coppie espagnolle imprimée a la ville de Seuille.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >A Rouen : </subfield>
+        <subfield code="b" >chez Iacques Caillo ué... iouxte la coppie imprimée &#39;a Paris par Guillaume Iulien, </subfield>
+        <subfield code="c" >1630.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >22], 214 p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign. : A-Z4, 2A-2F4, 2G2.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Port. a dos tintas.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >América Española-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Miggrode, Iacques de, </subfield>
+        <subfield code="e" >trad.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam a22000005i 4500</leader>
+    <controlfield tag="001" >CCPB001307399-0</controlfield>
+    <controlfield tag="005" >20200617171617.0</controlfield>
+    <controlfield tag="008" >000118s1613    gw a         |||| ||ger d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >(M-BN)bima0000015578</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >M-BN </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >M-BN </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Warhafftiger vnd gründlicher bericht der hispanier grewlich, vnd abschewlichen Tyranney von jhnen in den West Indien ... / </subfield>
+        <subfield code="c" >erstlich, castilianisch durch Bischoff Bartholomæum de las Casas ...</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Gedruckt zu Oppenheim : </subfield>
+        <subfield code="b" >in Verlegung Ioh. Theodori de Bry,</subfield>
+        <subfield code="c" >1613.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >178 p. : </subfield>
+        <subfield code="b" >il. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-Y4, Z1.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales grabadas.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto con apostillas marginales y letra gótica.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Portada grabada calcográfica alegórica.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Las ilustraciones son grabados calcográficos: &quot;Iodo a Winghe in&quot; escenas de atrocidades.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América  Española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >Descubrimiento y conquista, 1492-1600.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Bry, Johann Theodor de (</subfield>
+        <subfield code="d" >1561-1623?), </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Winghe, Joos van (</subfield>
+        <subfield code="d" >1544-1603), </subfield>
+        <subfield code="e" >grabador.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Alemania - </subfield>
+        <subfield code="d" >Oppenheim.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000ntc  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB001098479-8</controlfield>
+    <controlfield tag="005" >20200617171248.0</controlfield>
+    <controlfield tag="008" >110510i15161568sp     |||||||||||||spa d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB-AB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB-AB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="1" >
+        <subfield code="a" >[Documentos sobre la América Española y Filipinas] [</subfield>
+        <subfield code="h" >Manuscrito].</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="c" >1516-1568.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >H. 100-106, 129-130, 177-182, 192v. bis, 383-400, 403-415, 439, 493-518, 683-686, 743 bis [i.e. 87 h.] ; </subfield>
+        <subfield code="c" >31 x 21 cm.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="8" ind2=" " >
+        <subfield code="a" >Contiene: Los muertos que se mataron quando prendieron a Gonçalo Picarro son los siguientes (h. 100-101). Sentencia [de muerte pronunciada contra Gonçalo Pizarro] (h. 101v.). [Copia de] carta del rey para Gonzalo Piçarro [Venloo a 16 de febrero de 1546] (h. 102r.). [Copia de] carta de la Gasca para Gonzalo Piçarro [Panamá 26 de setiembre de 1546] (h. 102r.-106). El parecer del licenciado Gregorio (h. 129-130). Relación de lo acaescido en el negocio que se hizo en esta Real Audiencia contra los que se quisieron rebelar y alçar contra su Magestad aquí en México (h. 177-182, 292-293). La sentencia que dieron los SS. del Consejo sobre el … hasta oy 17 de enero de 1568, en la Nueva España, en la ciudad de México (h. 192v. bis ). Relación de algunas cosas de las que acaecieron el muy illustre señor don Hernando Cortés, Marqués del Valle, desde que se terminó a ir a descubrir tierra en la tierra firme del mar océano / Andrés de Tapia (h. 383-398). Para el año de 48, capítulo como este año vinieron algunas personas de las islas de los Malucos en la India Oriental, los quales avían partido en una armada que don Antonio Mendoza avía [enviado] hazía Poniente de la Nueva España en descubrimiento de ciertas isla [que] tenía noticia que avía mucha riqueza y lo que dixeron averles sucedido en su viaje / [Alonso de Santa Cruz] (h. 399-400). Relación de la carta del licenciado Ayllón en que da quenta de la forma que allá se tiene en las abdiencias de almirante y juezes y oficiales (h. 403). Memorial o instrucción que han de llevar los padres que por mandado de su Reverendísima Señoría y del Señor Enbaxador han de ir a reformar las Indias / [Bartolomé de las Casas] (h. 404-407). [Extracto de cartas sobre Hernán Cortés] (h. 409-412). [Noticia de los aborígenes mejicanos] (h. 413). Las cosas que para ponerse los indios en pueblos son necesarias / [Bartolomé de las Casas] (h. 414-415). Treslado de una carta [de Francisco de Ibarra] que se escriue de México a Juan de Castañeda (h. 439). Relación de todo lo sucedido en la gobernación de Omanga que por otro nombre se llama el Dorado desque fue encargada a Pedro de Osua por el Marqués de Cañete, uiso Rey de los reinos del Perú y de cómo el cruel tirano Lope de Aguirre llegó a la isla de la Margarita y de las crueldades que hizo hasta salir de dicha isla … (h. 493-518). [Carta de Alonso Enríquez de Guzmán a Pedro de Ribera sobre su residencia en Perú] (h. 683-686). Canto elegiaco de la muerte de Alonso de Ávila Alvarado y Gil Gonçales de Áuila, su hermano, dirigido al illustríssimo Señor don Martín Cortés, Marqués del Ualle, señor de las villas de Quarnauaca, Quuari, Hunauaca y Toluca (743 bis)</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Rodríguez-Moñino, A. Catálogo de documentos de América existentes en la Colección de Jesuitas en la Academia de la Historia. Madrid, 1949,</subfield>
+        <subfield code="c" >nº 2, 9, 132-133, 206, 241, 232, 328, 336, 359, 458-459, 471, 527, 547</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Giménez Fernández, Manuel. Bartolomé de las Casas. Sevilla, 1953-1960. T. 1, cap. IX, t. II, cap. VIII, 4</subfield>
+    </datafield>
+    <datafield tag="520" ind1="8" ind2=" " >
+        <subfield code="a" >Existe otra copia incompleta de la Relación de lo acaescido en el negocio que se hizo en esta Real Audiencia contra los que se quisieron rebelar y alçar contra su Magestad aquí en México en las h. 292-293.</subfield>
+    </datafield>
+    <datafield tag="581" ind1="8" ind2=" " >
+        <subfield code="a" >La sentencia de Gonzalo Pizarro en y el parecer del licenciado Gregorio: Boletín de la Acedemia de la lengua. Madrid. T. 167, p. 167-168, t. 96, p. 197-199.</subfield>
+    </datafield>
+    <datafield tag="581" ind1="8" ind2=" " >
+        <subfield code="a" >Las cartas de Gonzalo Pizarro en: Archivo Documental Español, t. XXI, v. 1, p. 385-393.</subfield>
+    </datafield>
+    <datafield tag="581" ind1=" " ind2=" " >
+        <subfield code="a" >Jos, Emiliano. La expedición de Ursúa al Dorado y la rebelión de Lope de Aguirre. Huesca, 1927, p. 243-252.</subfield>
+    </datafield>
+    <datafield tag="581" ind1=" " ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de. Historia de las Indias. Madrid, 1875-1876, t. IV, p. 298-308.</subfield>
+    </datafield>
+    <datafield tag="581" ind1="8" ind2=" " >
+        <subfield code="a" >La obra de Andrés de Tapia en: García Icazbalceta, Joaquín. Colección de documentos para la historia de México, t. II, p. 554-594.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >La fichas de la colección titulada &quot;Papeles varios de Jesuitas II&quot;, atribuye la undécima y la catorceava obra a Bartolomé de las Casas, también considera autógrafas las anotaciones y correcciones en la primera de ellas.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Según las fichas de la colección titulada &quot;Papeles varios de Jesuitas II&quot;, la obra &quot;Para el año de 48  …&quot; se corresponde al capítulo XL de la VIII parte de la Crónica del Emperador Carlos V de Alonso de Santa Cruz.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >El recto de la h. 102, el verso de las h. 182, 743 bis y la h. 408 en bl.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Pizarro, Gonzalo (</subfield>
+        <subfield code="d" >1502-1548)-</subfield>
+        <subfield code="x" >Muerte y entierro.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="0" ind2="4" >
+        <subfield code="a" >Carlos </subfield>
+        <subfield code="b" >I, </subfield>
+        <subfield code="c" >Rey de España (</subfield>
+        <subfield code="d" >1500-1558)-</subfield>
+        <subfield code="v" >Correspondencia.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Lagasca, Pedro de-</subfield>
+        <subfield code="v" >Correspondencia.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Aguirre, Lope de (</subfield>
+        <subfield code="d" >ca. 1516-1561)</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Ursúa, Pedro de (</subfield>
+        <subfield code="d" >m. 1561)</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Ávila Alvarado, Alonso de (</subfield>
+        <subfield code="d" >m. 1556)-</subfield>
+        <subfield code="x" >Elegías.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >González Dávila, Gil (</subfield>
+        <subfield code="d" >m. 1566)-</subfield>
+        <subfield code="x" >Elegías.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Cortés, Martín (</subfield>
+        <subfield code="d" >1532-1589)</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Vázquez de Ayllón, Lucas (</subfield>
+        <subfield code="d" >m. 1528)</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Cortés, Hernán (</subfield>
+        <subfield code="d" >1485-1547)</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Ibarra, Francisco de (</subfield>
+        <subfield code="d" >1539-1575)-</subfield>
+        <subfield code="v" >Correspondencia.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Enriquez de Guzmán, Alonso-</subfield>
+        <subfield code="v" >Correspondencia.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Pueblos indígenas-</subfield>
+        <subfield code="z" >México-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2=" " >
+        <subfield code="a" >Perú (Virreinato)-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1522-1548</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América española-</subfield>
+        <subfield code="x" >Conquista-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2=" " >
+        <subfield code="a" >México-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1517-1521 (Descubrimiento y conquista)</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >México-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1566.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >México-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1521-1821 (Época colonial)</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >Filipinas-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >La Española-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >Nueva Vizcaya (México)-</subfield>
+        <subfield code="x" >Descubrimientos y exploraciones-</subfield>
+        <subfield code="y" >1563.</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2=" " >
+        <subfield code="a" >Relaciones de sucesos-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Pizarro, Gonzalo (</subfield>
+        <subfield code="d" >1502-1548), </subfield>
+        <subfield code="e" >crp.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="0" ind2=" " >
+        <subfield code="a" >Gregorio </subfield>
+        <subfield code="c" >(Licenciado)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Tapia, Andrés de. </subfield>
+        <subfield code="t" >Relación de algunas cosas de las que acaecieron el muy illustre señor don Hernando Cortés, Marqués del Valle, desde que se terminó a ir a descubrir tierra en la tierra firme del mar océano.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Santa Cruz, Alonso de (</subfield>
+        <subfield code="d" >1505-1567). </subfield>
+        <subfield code="t" >Crónica del Emperador Carlos V.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Santa Cruz, Alonso de (</subfield>
+        <subfield code="d" >1505-1567). </subfield>
+        <subfield code="t" >Para el año de 48, capítulo como este año vinieron algunas personas de las islas de los Malucos en la India Oriental, los quales avían partido en una armada que don Antonio Mendoza avía [enviado] hazía Poniente de la Nueva España en descubrimiento de ciertas isla [que] tenía noticia que avía mucha riqueza y lo que dixeron averles sucedido en su viaje.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Castañeda, Juan de, </subfield>
+        <subfield code="e" >crp.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Ribera, Enríquez de, </subfield>
+        <subfield code="e" >crp.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000ntm  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB001095234-9</controlfield>
+    <controlfield tag="005" >20200617171244.0</controlfield>
+    <controlfield tag="008" >100614q17501800sp     |||||||||||||spa d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB-AB </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB-AB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0" >
+        <subfield code="a" >Historia del Obispo de Chiapas [</subfield>
+        <subfield code="h" >Manuscrito].</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="c" >[S. XVIII, 2ª mitad]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >3 v. (326; 454; 316 h.) ; </subfield>
+        <subfield code="c" >30 x 21 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" " >
+        <subfield code="a" >Ms. misceláneo.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="8" ind2=" " >
+        <subfield code="a" >Contiene: v. 1 Corolarium incidentale. Z. Ad quadruplicem infidelium est differentiam seu speciem quantum allinet ad pricipatus habere ... (h. 1-109). Argumento del libro 1º, el libro segundo conterna la historia de diez años començando del año de mill y quinientos y uno por todo el diez inclusiue ... tratasen del estado desta isla después que al almirante lleuaron preso a castilla gouerandola Bouadilla ... (h. 110-326) -- v. 2 Tractatus de iure et iustitia belli ... per reverendum patrem fratrem Vincentium Palentinum de Corzula ... (h. 1r-141v, 145r-183v). Questio circa vellum gestum per hispanos anno. 1541 contra incolas indos de Xalisco ... fr. Bartolomé. a casas episcopus (h. 184r- 454r) -- v. 3 Argumento de la apología que compuso el obispo fray Bartholomé de las Casas o Casaus, obispo que fue de la ciudad real de Chiapas ... sumario del libro que el doctor Sepúlveda coronista del emperador compuso contra los indios, y después se sigue parte de una apología que contra el hizo el obispo de Chiapa ... (h. 1r-316v)</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Tít. tomado del tejuelo.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Signaturización alfabética; reclamos; foliación antigua a tinta en arábigos; en v. 2, h. 142-144 en bl.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >En v. 2, h. 46v dibujo a tinta de torres, fuentes y plazas.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Controversia de Valladolid, 1550-1551.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="z" >Historia-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América-</subfield>
+        <subfield code="x" >Descubrimientos y exploraciones-</subfield>
+        <subfield code="x" >Españoles.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Paletin, Vinko </subfield>
+        <subfield code="c" >(O. P.). </subfield>
+        <subfield code="t" >Tractatus de iure et iustitia belli aduersus infidelis occidentales Indie.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566).</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Sepúlveda, Juan Ginés de (</subfield>
+        <subfield code="d" >1490-1573).</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB001209354-8</controlfield>
+    <controlfield tag="005" >20200617171436.0</controlfield>
+    <controlfield tag="008" >120216s1620    ne a   |||||||||||||fre d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="z" >(M-BN)a4548184 </subfield>
+        <subfield code="z" >(M-BN)a5546171</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >AR </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >AR </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0" >
+        <subfield code="a" >Le miroir de la cruelle, &amp; horrible tyrannie Espagnole perpetree au Pays Bas, par le Tyran Duc de Albe, &amp; aultres Cõmandeurs de par le Roy Philippe le duxiesme </subfield>
+        <subfield code="b" >: On a adjoinct la deuxiesme partie de les Tyrannies commises aux Indes Occidentales par les Espagnols.</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" " >
+        <subfield code="a" >Nouvellement exorné avec taille douçe en cuyvre.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Tot Amsterdam : </subfield>
+        <subfield code="b" >ghedruckt by Ian Evertss Cloppenburg ...,</subfield>
+        <subfield code="c" >1620.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[4], 87 [i.e.88] h.; , 68 h. : </subfield>
+        <subfield code="b" >il. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="8" ind2=" " >
+        <subfield code="a" >Contiene: Le miroir de la Tyrannie Espagnole perpetree aux Indes Occidentales: On verra icy la cruaute plus que inhumaine, commise par les Espagnols aussi la description de ces terres, peuples, et leur nature / Mise en lumiere par ... Bartholome de las Casas, de l´Ordre de S. Dominic.; Nouvellement refaicte avec les figures en cuyvre, 68 h.</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" " >
+        <subfield code="a" >Texto en francés.</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" " >
+        <subfield code="8" >4.1 </subfield>
+        <subfield code="a" >Evaluar </subfield>
+        <subfield code="l" >Cajos deteriorados, cofia dañada, texto manchado ; </subfield>
+        <subfield code="c" >20141002</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >La primera obra es una versión abreviada de la obra Oorsprong en voortgang der Nederlandtscher beroerten de Johannes Gysius.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: (:)4, A-Y4; A-R4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Error tipográfico de paginación, repite la numeración de la p. 87.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Texto con apostillas marginales.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Segunda obra con portada, paginación y signaturas propias.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Iniciales grabadas xilográficas.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Portadas grabadas xilográficas, en la que aparecen un retrato de Felipe II y diversas escenas y figuras.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Las il. son grabados calcográficos intercalados en el texto que representan escenas de la crueldad española con los indígenas.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="0" ind2="4" >
+        <subfield code="a" >Felipe </subfield>
+        <subfield code="b" >II, </subfield>
+        <subfield code="c" >Rey de España (</subfield>
+        <subfield code="d" >1527-1598)</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Álvarez de Toledo, Fernando, </subfield>
+        <subfield code="b" >III </subfield>
+        <subfield code="c" >Duque de Alba (</subfield>
+        <subfield code="d" >1507-1582)</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de América-</subfield>
+        <subfield code="x" >Trato recibido.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América española-</subfield>
+        <subfield code="x" >Descubrimiento y conquista.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >Países Bajos-</subfield>
+        <subfield code="x" >Relaciones-</subfield>
+        <subfield code="z" >España-</subfield>
+        <subfield code="y" >S. XVI.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566).</subfield>
+        <subfield code="t" >Brevísima relación de la destrucción de las Indias. </subfield>
+        <subfield code="l" >Francés.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Cloppenburgh, Evert, </subfield>
+        <subfield code="e" >impresor.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Gysius, Johannes. </subfield>
+        <subfield code="t" >Oorsprong ende voortgang de Neder-landtscher beroerten. </subfield>
+        <subfield code="l" >Francés.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="3" ind2=" " >
+        <subfield code="a" >Le miroir de la Tyrannie Espagnole perpetree aux Indes Occidentales.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Oorsprong ende voortgang de Neder-landtscher beroerten.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Holanda - </subfield>
+        <subfield code="d" >Amsterdam.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000ntm a2200000 i 4500</leader>
+    <controlfield tag="001" >CCPB001259454-7</controlfield>
+    <controlfield tag="005" >20200617171530.0</controlfield>
+    <controlfield tag="008" >100611q16011700sp            000 0 spa d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >(M-BN)a4769946</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >M-BN </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >M-BN </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="080" ind1=" " ind2=" " >
+        <subfield code="a" >316</subfield>
+    </datafield>
+    <datafield tag="080" ind1=" " ind2=" " >
+        <subfield code="a" >94(7/8)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0" >
+        <subfield code="a" >Papeles varios relativos a América [</subfield>
+        <subfield code="h" >Manuscrito].</subfield>
+    </datafield>
+    <datafield tag="246" ind1="1" ind2="8" >
+        <subfield code="a" >Varios papeles tocantes a Indias</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="c" >S. XVII.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >205 h. ; </subfield>
+        <subfield code="c" >30 x 21 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" " >
+        <subfield code="a" >Manuscritos e impresos.</subfield>
+    </datafield>
+    <datafield tag="505" ind1="0" ind2=" " >
+        <subfield code="a" >Carta del P. Las Casas, Obispo de Chiapas, a Fr. Bartolomé Miranda, sobre los repartimientos de indios, agosto 1555 (h. 1-22v). Instrucción que por mandado de S.M. hizo el Virrey Martín Henríquez para el Conde de la Coruña, sobre el gobierno de Nueva España, 25 septiembre 1580 (h. 23-35). Parecer de Alonso Mejía sobre la Real Cédula de 1609 y demás despachos que tratan del servicio personal de los indios (h. 38-67v). Informe sobre los tributos personales de los indios en Nueva España y Memorial sobre la reducción de dichos tributos, que resultó de lo tratado con Gregorio Vázquez, por orden de S.M. (h. 70-75). Memorial sobre la armada de galeones y la protección de las flotas de Indias (h. 76-80). [Impreso]: Contrato del Capitán Juan González de Guzmán, que toma a su cargo la renta del Almojarifazgo Mayor de Indias, 1603-1612 (h. 82-101v). [Impreso]: Parecer de Cristóbal de Moscoso y Córdoba sobre la Real Cédula de 1635, que ordena repartir en siete partes los frutos de los obispados vacantes en Indias (h. 102-117v). [Impreso]: Informe de Pedro Porter y Casanate a S.M. sobre su frustrado viaje a California en 1636, y la conveniencia de poblar aquella tierra (h. 118-121v). [Impreso]: Memorial de Nicolás de Cardona a S.M. sobre sus viajes a California y solicitud de licencia para continuarlos (h. 123-130). [Impreso]: Traducción de la dedicatoria real y epístolas proemiales del segundo tomo del Derecho y gobierno de las Indias Occidentales, que ha sacado a la luz Juan Solórzano Pereira, del Consejo Real de ellas. Oficina de Francisco Martínez, 1639 (h. 131-197). [Impreso]: Relación que en el Consejo Real de las Indias hizo el licenciado Antonio de León Pinelo..., sobre la pacificación y población de las provincias de Manché y Lacandón, que pretende hace Diego de Vera Ordóñez (h. 198-205v)</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Paz, América (2ª ed.), </subfield>
+        <subfield code="c" >p. 79-80, n. 292</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Andrés, G. de, Uceda, </subfield>
+        <subfield code="c" >p. 31, n. 324</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Fernández Pomar, Uceda, </subfield>
+        <subfield code="c" >p. 510, n. 436-440</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Lohman Villena, Guillermo, Las relaciones de los virreyes del Perú, Sevilla, 1959, </subfield>
+        <subfield code="c" >p. 59</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Holmes, Maurice H., From New Spain by sea to the Californias 1519- 1668, California, 1963, </subfield>
+        <subfield code="c" >p. 292</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Zavala, Silvio A., La encomienda indiana, México D.F., 1973 (2ª ed.),</subfield>
+        <subfield code="c" >p. 123 y 126</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Gil, Juan, Mitos y utopías del descubrimiento: 2. El Pacífico, Madrid, 1989, </subfield>
+        <subfield code="c" >p. 153</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Gómez Rivas, León, El virrey del Perú don Francisco de Toledo, Madrid, 1994, </subfield>
+        <subfield code="c" >p. 17</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >García-Romeral Pérez, Carlos, Biobliografías de viajeros españoles (siglos XVI - XVII). Madrid, 1998, </subfield>
+        <subfield code="c" >p. 56</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Maqueda, Consuelo, Mundo indígena e Inquisición. Conflicto de fe en Nueva España, en Intolerancia e Inquisición, José Antonio Escudero (ed.), Madrid, 2005, </subfield>
+        <subfield code="c" >t. III, p. 49</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Numhauser, Paulina, ¿Sublevando el virreinato? Jesuitas italianos en el virreinato del Perú del siglo XVII. Gerónimo Pallas (S.I), en Sublevando el virreinato: documentos contestatarios a la historiografía tradicional del Perú colonial, Laurencich, L. y Numhauser, P. (eds.), Quito, 2007, </subfield>
+        <subfield code="c" >p. 119</subfield>
+    </datafield>
+    <datafield tag="510" ind1="4" ind2=" " >
+        <subfield code="a" >Amadori, Arrigo, Privanza, patronazgo y fiscalidad indiana en la corte de Madrid durante el reinado de Felipe IV, en Revista complutense de historia de América, </subfield>
+        <subfield code="c" >v. 34 (2008), p. 76</subfield>
+    </datafield>
+    <datafield tag="533" ind1=" " ind2=" " >
+        <subfield code="a" >Copia digital : </subfield>
+        <subfield code="c" >Biblioteca Digital Hispánica (Biblioteca Nacional de España)</subfield>
+    </datafield>
+    <datafield tag="581" ind1=" " ind2=" " >
+        <subfield code="a" >Memorial del Almirante D. Pedro Porter Casanate, al Rey, recomendando una nueva expedición a la California, en Californiana II, Documentos para la historia de la explotación comercial de California, 1611-1679, M. Mathes (ed.), Madrid, 1970, pp. 763-774.</subfield>
+    </datafield>
+    <datafield tag="583" ind1=" " ind2=" " >
+        <subfield code="8" >1.1 </subfield>
+        <subfield code="a" >Restaurar </subfield>
+        <subfield code="c" >20130612 </subfield>
+        <subfield code="l" >texto manchado</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Título en el tejuelo: Varios papeles tocantes a Indias.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >En blanco las h. 36-37, 68-69 y 81.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Indios de México-</subfield>
+        <subfield code="x" >Trato recibido-</subfield>
+        <subfield code="v" >Historia-</subfield>
+        <subfield code="v" >Fuentes.</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="4" >
+        <subfield code="a" >Impuestos-</subfield>
+        <subfield code="z" >América española.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >México-</subfield>
+        <subfield code="x" >Historia-</subfield>
+        <subfield code="y" >1521-1821 (Época colonial)-</subfield>
+        <subfield code="v" >Fuentes.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2" >
+        <subfield code="a" >Casas, Bartolomé de las (</subfield>
+        <subfield code="d" >1474-1566)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2" >
+        <subfield code="a" >Miranda, Bartolomé de </subfield>
+        <subfield code="c" >(O.P.)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2" >
+        <subfield code="a" >Enríquez de Almansa, Martín.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2" >
+        <subfield code="a" >Coruña, Alfonso Suárez de Mendoza, </subfield>
+        <subfield code="c" >Conde de (</subfield>
+        <subfield code="d" >fl. 1534)</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="2" >
+        <subfield code="a" >Mejía, Alonso.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000045831-7</controlfield>
+    <controlfield tag="005" >20180507113823.0</controlfield>
+    <controlfield tag="008" >931025s1618    fr            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100113072 </subfield>
+        <subfield code="z" >(M-BN)bima0000010246</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >SR </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Pio, Giovanni Michele.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Allegatione per confirmare quanto si scrive nell&#39;Annotationi all&#39;Aviso di Parnaso, al numero 57, cavata dalla vita di F. Bartolomeo dalla Casa, vescono di Chiapa / </subfield>
+        <subfield code="c" >descritta da F. Michele Pio Bolognese ... teologo dominicano e stampata con molte altre d&#39;huomini illustri di questo ordine in Pania l&#39;anno 1613.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Antopoli : </subfield>
+        <subfield code="b" >nella stamperia regia, </subfield>
+        <subfield code="c" >1618.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >22 p., [1] h. en bl. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-C4.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)-</subfield>
+        <subfield code="x" >Biografías.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Castellani, Giacomo. </subfield>
+        <subfield code="t" >Avviso di Parnaso-</subfield>
+        <subfield code="v" >Crítica e interpretación.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" " >
+        <subfield code="a" >Imprenta Real (Francia), </subfield>
+        <subfield code="e" >impresor</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Avviso di Parnaso.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Francia - </subfield>
+        <subfield code="d" >Antibes.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000cam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000045832-5</controlfield>
+    <controlfield tag="005" >20181016131310.0</controlfield>
+    <controlfield tag="008" >931025s1621    fr            ||| | ita d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >0100113073 </subfield>
+        <subfield code="z" >(M-BN)bima0000010247</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >SR </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >PAB </subfield>
+        <subfield code="d" >CCPB </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Pio, Giovanni Michele </subfield>
+        <subfield code="c" >(O.P.)</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Allegatione per confirmare quanto si scriue nell&#39; Annotationi all&#39; Auuiso di Parnaso al numero 57, cauata dalla vita di F. Bartolomeo dalla Casa, Vescouo di Chiapa / </subfield>
+        <subfield code="c" >descritta da F. Michele Pio Bolognese ... teologo dominicano e stampata con molte altre d&#39;huomini ilustri di questo ordine in Pania l&#39;anno 1613.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >In Antopoli : </subfield>
+        <subfield code="b" >nella stamperia regia, </subfield>
+        <subfield code="c" >1621.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >22 p. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A-B4, C3.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566)-</subfield>
+        <subfield code="x" >Biografías.</subfield>
+    </datafield>
+    <datafield tag="600" ind1="1" ind2="4" >
+        <subfield code="a" >Castellani, Giacomo. </subfield>
+        <subfield code="t" >Auuiso di Parnaso-</subfield>
+        <subfield code="v" >Crítica e interpretación.</subfield>
+    </datafield>
+    <datafield tag="710" ind1="2" ind2=" " >
+        <subfield code="a" >Stamperia reale (Antibes), </subfield>
+        <subfield code="e" >impresor</subfield>
+    </datafield>
+    <datafield tag="740" ind1="0" ind2=" " >
+        <subfield code="a" >Auuiso di Parnaso.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Francia - </subfield>
+        <subfield code="d" >Antibes.</subfield>
+    </datafield>
+</record>
+<record xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd" type="Bibliographic" >
+    <leader>00000nam  22000005i 4500</leader>
+    <controlfield tag="001" >CCPB000413227-0</controlfield>
+    <controlfield tag="005" >20170114001542.0</controlfield>
+    <controlfield tag="008" >000905s1640    ne a          ||| | dut d</controlfield>
+    <datafield tag="035" ind1=" " ind2=" " >
+        <subfield code="a" >DMBR010104742</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" " >
+        <subfield code="a" >CCPB-B </subfield>
+        <subfield code="b" >spa </subfield>
+        <subfield code="c" >CCPB-B </subfield>
+        <subfield code="e" >rdc</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2=" " >
+        <subfield code="a" >Spieghel, Vermeerdenden Den.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0" >
+        <subfield code="a" >Den Vermeerderden Spieghel Der spaensche tierannijegeschiet in Westindien waerin tesien is de onmenschelijcke wreede seiijten der spajarden met samen de beschiriivinge der selver lant en volcken aert en nature </subfield>
+        <subfield code="b" >: allen Vaderlant licuende en Vrome voorstaders ten exemplen voorgestelt / </subfield>
+        <subfield code="c" >in spans belcheeven door den E. Bischop don fray Bartholome de las Casa van S. Dominicus oorden.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" " >
+        <subfield code="a" >Amsterdam : </subfield>
+        <subfield code="b" >by Cornelis Lodewiicksz vander Plasse, </subfield>
+        <subfield code="c" >1640.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" " >
+        <subfield code="a" >[52] h. : </subfield>
+        <subfield code="b" >il. ; </subfield>
+        <subfield code="c" >4º.</subfield>
+    </datafield>
+    <datafield tag="594" ind1=" " ind2=" " >
+        <subfield code="a" >Autor precede al tít.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Sign.: A4, A-M4.</subfield>
+    </datafield>
+    <datafield tag="597" ind1=" " ind2=" " >
+        <subfield code="a" >Port. grab. calc.</subfield>
+    </datafield>
+    <datafield tag="599" ind1=" " ind2=" " >
+        <subfield code="a" >Ilustraciones calc.</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="4" >
+        <subfield code="a" >América-</subfield>
+        <subfield code="x" >Descubrimientos y exploraciones-</subfield>
+        <subfield code="y" >S. XVII.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Casas, Bartolomé de las </subfield>
+        <subfield code="c" >(O.P.) (</subfield>
+        <subfield code="d" >1474-1566), </subfield>
+        <subfield code="e" >com.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Bischop, E., </subfield>
+        <subfield code="e" >trad.</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" " >
+        <subfield code="a" >Plasse, Cornelis Lodewijcksz van der, </subfield>
+        <subfield code="e" >ed.</subfield>
+    </datafield>
+    <datafield tag="740" ind1="4" ind2=" " >
+        <subfield code="a" >Der Spaensche tierannijegeschiet in Westindien.</subfield>
+    </datafield>
+    <datafield tag="752" ind1=" " ind2=" " >
+        <subfield code="a" >Holanda - </subfield>
+        <subfield code="d" >Amsterdam</subfield>
+    </datafield>
+</record></collection>
